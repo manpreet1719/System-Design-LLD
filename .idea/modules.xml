@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConsistentHashing/ConsistentHashing.iml" filepath="$PROJECT_DIR$/ConsistentHashing/ConsistentHashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemDesignLLD.iml" filepath="$PROJECT_DIR$/SystemDesignLLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy Desgin pattern/strategy Desgin pattern.iml" filepath="$PROJECT_DIR$/strategy Desgin pattern/strategy Desgin pattern.iml" />

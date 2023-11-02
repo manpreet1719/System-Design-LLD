@@ -6,7 +6,7 @@ public class Main {
         consistentHashing.addNode("Node2");
         consistentHashing.addNode("Node3");
 
-        String key1 = "Data1rr";
+        String key1 = "Data1";
         String key2 = "Data2";
         String key3 = "Data3";
 
